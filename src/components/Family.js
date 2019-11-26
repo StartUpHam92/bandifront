@@ -7,6 +7,8 @@ import { Link, Route, BrowserRouter as Router } from "react-router-dom";
 import Chat from "./Chat";
 
 
+
+
 // <button><img src="./../../bandibot_asset/img/family1.png"/>한부모가족</button>  이미지가 안나옴 ㅠ
 class Family extends Component {
     constructor(props) {
